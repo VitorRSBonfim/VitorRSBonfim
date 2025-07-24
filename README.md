@@ -83,19 +83,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <div style="display: flex, align-itens: center">
     <div style="width: 100% ">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img height=200  src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
     </div>
 </div>
 
+
 ---
+✨Redes sociais
 
 
+<img 
+    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+/>
 
-<div>
-    <img 
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-    />
 
-</div>
 
