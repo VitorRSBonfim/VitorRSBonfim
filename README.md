@@ -86,7 +86,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
         <img height=200 align="auto" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
         <img height=200 align="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" /
     </div>
->
+
     
 </div>
 
