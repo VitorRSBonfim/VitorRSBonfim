@@ -72,8 +72,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-
-
+<br/>
+<br/>
 <img
     align="left"
     style="padding-right: 10px"
