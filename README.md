@@ -79,15 +79,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <br/>
 
 
+🐱‍👓 Estatísticas
 
 <a href="https://github.com/VitorRSBonfim/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim" />
 </a>
+
 <a href="https://github.com/VitorRSBonfim/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<br/>
-<br/>
 
 
