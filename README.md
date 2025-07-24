@@ -77,12 +77,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <br/>
 <br/>
-<img
-    align="left"
-    style="padding-right: 10px"
-    height="190"
-    src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&show_icons=true&theme=radical"
-/>
+
 
 <img
     align="left"
