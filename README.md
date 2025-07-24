@@ -80,7 +80,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <img
     align="left"
     style="padding-right: 10px"
-    height="200"
+    height="190"
     src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&show_icons=true&theme=radical"
 />
 
