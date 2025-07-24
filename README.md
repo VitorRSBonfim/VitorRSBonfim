@@ -81,10 +81,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 🐱‍👓 Estatísticas
 
-<div style="display: flex,align-items: center;">
-    <div width= "100%" align="left">
-        <img height=200  src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" /
+<div style="display: flex,align-items: center; justfy-content: center;">
+    <div width= "100%" align="left" height=200>
+        <img height="100%"  src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" /
     </div>
 
     
