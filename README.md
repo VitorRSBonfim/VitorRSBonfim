@@ -81,10 +81,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 🐱‍👓 Estatísticas
 
-<div style="display: flex,align-items: left, justfy-content: center;">
-    <div width= "100%" align="left" height=200>
-        <img src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" /
+<div>
+    <div>
+        <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
+        <img height="100%" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
     </div>
 
     
@@ -96,6 +96,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 
 <img 
+    align="center"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
 />
 
