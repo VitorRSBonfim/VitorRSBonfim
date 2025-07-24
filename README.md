@@ -81,14 +81,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 🐱‍👓 Estatísticas
 
-<a href="https://github.com/VitorRSBonfim/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
-</a>
+<div style="display: flex, align-itens: center">
+    <div style="width: 100% ">
+    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
+    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    </div>
+</div>
 
-<a href="https://github.com/VitorRSBonfim/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+---
 
-<img 
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-/>
+
+
+<div>
+    <img 
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+    />
+
+</div>
+
