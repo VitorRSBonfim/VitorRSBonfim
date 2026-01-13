@@ -79,14 +79,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <br/>
 
 
-🐱‍👓 Estatísticas
-
-<div>
-    <div>
-        <img height="100%" align="center" style="padding-left: 10px;" style="padding-top: 5px." src="https://github-readme-stats.vercel.app/api?username=VitorRSBonfim&theme=transparent" />
-        <img style="padding-left:10px; padding-top: 5px" height="100%" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorRSBonfim&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-    </div>
-
     
 </div>
 
