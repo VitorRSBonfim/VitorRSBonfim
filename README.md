@@ -1,4 +1,4 @@
-## Hello, world! 🐱
+## Hello, world! 
 
 
 
@@ -6,7 +6,7 @@ Me chamo [Vitor Rodrigo](https://www.youtube.com/), tenho 18 anos. Eu gosto bast
 
 ---
 
-✨ Linguagens e Tecnologias
+Linguagens e Tecnologias
 
 
 <img
@@ -85,7 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <br/>
 
 ---
-✨Contato
+Contato
 
 
 
